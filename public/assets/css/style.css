@@ -1,41 +1,24 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
+/* Style Header */
 #home {
-
     height: 100vh;
-    width: 100 vw; 
     background-image: url(../img/home.jpeg);
     background-repeat: no-repeat;
-background-size: cover;
-background-position: center center ;
+    background-size: cover;
+    background-position: center center ;
 }
-
 .homeTitle {
-
     font-size: 60px;
 }
-
 .homeText {
     display: flex;
     flex-direction: column;
-
     height: 100vh;
-    justify-content: center;}
-
+    justify-content: center;
+}
 .signature {
     font-family: "La belle Aurore";
 }
-
-.containerHome {
-
-    height: 100vh;
-    width: 100 vw;
-}
-
-
 .nav-link-head {
-
     background-color: steelblue;
     border-radius: 30px ;
     border-color: ghostwhite;
@@ -43,14 +26,16 @@ background-position: center center ;
     border
     
 }
-
-nav ul li
-{
-margin:0 30px;
-
+nav ul li {
+    margin:0 30px;
 }
 
-=======
+
+
+
+
+
+
 /* Style Gallery */
 #restaurant {
     font-family: 'La Belle Aurore', cursive;
@@ -65,8 +50,7 @@ margin:0 30px;
         font-size: 1.7rem!important;
     }
 }
->>>>>>> origin/gallerie
-=======
+
 /*Formulaire Footer*/
 #Formulaire .typo-LaBelleAurore {
     font-family: 'La Belle Aurore', cursive;
@@ -88,4 +72,3 @@ margin:0 30px;
         font-size: 2.5rem;
     }
 }
->>>>>>> origin/formulaire
