@@ -46,8 +46,6 @@ nav ul li {
 }
 
 /*Formulaire Footer*/
-
-/*Formulaire Footer*/
 #Formulaire .typo-LaBelleAurore {
     font-family: 'La Belle Aurore', cursive;
 }
@@ -60,7 +58,7 @@ nav ul li {
 #Formulaire .bg-skyblue {
     background-color: #5D92BE;
 }
-#Formulaire .title {
+.title {
     font-size: 2rem;
 }
 @media all and (min-width: 992px) {
@@ -92,7 +90,7 @@ nav ul li {
     }
 }
 .text-shadow {
-    text-shadow: #000 0 0 5px;
+    text-shadow: #000 0 0 10px;
 }
 #localisation .text-gold {
     color: #CDC056;
