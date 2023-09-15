@@ -45,7 +45,8 @@ nav ul li {
     }
 }
 
-=======
+/*Formulaire Footer*/
+
 /*Formulaire Footer*/
 #Formulaire .typo-LaBelleAurore {
     font-family: 'La Belle Aurore', cursive;
@@ -68,24 +69,35 @@ nav ul li {
     }
 }
 
-/*Formulaire Footer*/
-#Formulaire .typo-LaBelleAurore {
+/* Style Localisation */
+#localisation {
     font-family: 'La Belle Aurore', cursive;
 }
-.typo-Kurale {
-    font-family: 'Kurale', serif;
+#localisation .map iframe {
+    width: 100%;
+    height: 300px;
+    margin: 0;
 }
-#Formulaire .text-skyblue {
-    color: #5D92BE;
+#localisation .bg-local {
+    background:url("../img/1.png");
+    background-size: cover;
+    background-position: center center;
 }
-#Formulaire .bg-skyblue {
-    background-color: #5D92BE;
-}
-#Formulaire .title {
+#localisation .title {
     font-size: 2rem;
 }
 @media all and (min-width: 992px) {
-    #Formulaire .title {
+    #localisation .title {
         font-size: 2.5rem;
     }
+}
+#localisation .text-shadow {
+    text-shadow: #000 0 0 5px;
+}
+#localisation .text-gold {
+    color: #CDC056;
+}
+#localisation .border-title {
+    text-decoration: #000 solid 2px underline;
+    text-underline-position: under;
 }
