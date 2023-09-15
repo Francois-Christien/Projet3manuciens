@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 #home {
 
@@ -40,8 +38,7 @@ background-position: center center ;
     border-radius: 30px ;
     border-color: ghostwhite;
     border: 2px;
-    border
-    
+
 }
 
 nav ul li
@@ -65,7 +62,7 @@ margin:0 30px;
         font-size: 1.7rem!important;
     }
 }
->>>>>>> origin/gallerie
+
 =======
 /*Formulaire Footer*/
 #Formulaire .typo-LaBelleAurore {
@@ -88,4 +85,25 @@ margin:0 30px;
         font-size: 2.5rem;
     }
 }
->>>>>>> origin/formulaire
+
+/*Formulaire Footer*/
+#Formulaire .typo-LaBelleAurore {
+    font-family: 'La Belle Aurore', cursive;
+}
+.typo-Kurale {
+    font-family: 'Kurale', serif;
+}
+#Formulaire .text-skyblue {
+    color: #5D92BE;
+}
+#Formulaire .bg-skyblue {
+    background-color: #5D92BE;
+}
+#Formulaire .title {
+    font-size: 2rem;
+}
+@media all and (min-width: 992px) {
+    #Formulaire .title {
+        font-size: 2.5rem;
+    }
+}
