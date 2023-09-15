@@ -1,8 +1,7 @@
-body {
+/* Style Gallery */
+#restaurant {
     font-family: 'La Belle Aurore', cursive;
 }
-
-/* Style Gallery */
 #restaurant .img-gallery {
     height: 200px;
     width: 100%;
