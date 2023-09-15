@@ -1,0 +1,15 @@
+body {
+    font-family: 'La Belle Aurore', cursive;
+}
+
+/* Style Gallery */
+#restaurant .img-gallery {
+    height: 200px;
+    width: 100%;
+    border-radius: 6em;
+}
+@media all and (min-width: 992px) {
+    #restaurant .fs-4 {
+        font-size: 1.7rem!important;
+    }
+}
