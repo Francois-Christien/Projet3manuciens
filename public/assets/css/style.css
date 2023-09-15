@@ -8,7 +8,7 @@
     background-position: center center ;
 }
 .homeTitle {
-    font-size: 60px;
+    font-size: 4rem;
 }
 .homeText {
     display: flex;
@@ -91,7 +91,7 @@ nav ul li {
         font-size: 2.5rem;
     }
 }
-#localisation .text-shadow {
+.text-shadow {
     text-shadow: #000 0 0 5px;
 }
 #localisation .text-gold {
