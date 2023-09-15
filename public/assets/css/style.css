@@ -21,6 +21,10 @@ background-position: center center ;
     height: 100vh;
     justify-content: center;}
 
+.signature {
+    font-family: "La belle Aurore";
+}
+
 .containerHome {
 
     height: 100vh;
