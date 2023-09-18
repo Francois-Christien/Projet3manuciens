@@ -22,9 +22,9 @@
 .nav-link-head {
     background-color: steelblue;
     border-radius: 30px ;
-    border-color: ghostwhite;
-    border: 2px;
-
+    border-color: white;
+    border: 1px solid;
+    font-size: 1.2rem;
 }
 nav ul li {
     margin:0 30px;
