@@ -27,11 +27,15 @@
     font-size: 1.2rem;
 }
 nav ul li {
-    margin:0 30px;
+    margin:0 20px;
 }
 
 /* Style Gallery */
 #restaurant {
+    font-size: 1.2rem;
+}
+#restaurant .title {
+    font-size: 2.2rem;
     font-family: 'La Belle Aurore', cursive;
 }
 #restaurant .img-gallery {
@@ -40,13 +44,13 @@ nav ul li {
     border-radius: 6em;
 }
 @media all and (min-width: 992px) {
-    #restaurant .fs-4 {
-        font-size: 1.7rem!important;
+    #restaurant {
+        font-size: 1.4rem;
     }
 }
 
 /*Formulaire Footer*/
-#Formulaire .typo-LaBelleAurore {
+.typo-LaBelleAurore {
     font-family: 'La Belle Aurore', cursive;
 }
 .typo-Kurale {
